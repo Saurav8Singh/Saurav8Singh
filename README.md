@@ -1,5 +1,5 @@
 # 💫 About Me:
-Saurav Singh is a dedicated Frontend Developer with expertise in React, HTML, CSS, JavaScript, and full-stack technologies like MERN and .NET, passionate about building optimized, user-friendly web applications.
+I am a dedicated Frontend Developer with expertise in React, HTML, CSS, JavaScript, and full-stack technologies like MERN and .NET, passionate about building optimized, user-friendly web applications.
 
 
 ## 🌐 Socials:
